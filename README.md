@@ -1,4 +1,9 @@
-## 🖥️ Estudos sobre git
+<h2> align="center">
+	🖥️ <br>Estudos sobre git
+ </h2>
+
+  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/estudo_git/blob/main/LICENSE)
+
 
 ### Sistemas de controle de versão
 
@@ -8,7 +13,21 @@
 * Tudo fica registrado e você consegue retornar para versões anteriores.
 * Permite que membros de um projeto trabalhem no mesmo documento ao mesmo tempo de forma isolada uns dos outros.
 
-### Plataforma de hospedagens mais comuns
+### Index
+
+- [Seção 1 | Plataformas - Comandos - Configurações iniciais - Alias 💡](#seção-1)
+- [Seção 2  📝](#how-to-use)
+- [Seção 3 ⬇️ ](#what-are-the-commit-types)
+- [Recommendations ☑️](#recommendations)
+- [Emoji patterns 📍](#emoji-patterns)
+- [References 🔗](#references)
+- [Author Info  ✒️](#author)
+
+---
+
+## Seção 1
+
+### Plataformas de hospedagens mais comuns
 
 * Github
 * Bitbucket
@@ -67,3 +86,12 @@ $ git config --global alias.hist 'log --pretty=format:"%h %ad | %s%d [%an]" --gr
 ```
 $ git <verb> --help
 ```
+
+---
+
+ ### Author
+
+Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
+
+
+<br>[🔝 Back To The Top](#estudos-sobre-git-) <br>
