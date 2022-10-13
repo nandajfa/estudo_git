@@ -17,12 +17,13 @@
 
 1- Definir nome e email que será exibido nos commits.
 
-* git config [--local | --global | --system] <key> [<value>]
-	--system: aplica as configurações para todo repositório de todos os usuários no seu computador.
-	--global: aplica para todo repositório do usuário corrente.
-	--local: aplica para o repositório corrente.
+``` git config [--local | --global | --system] <key> [<value>] ```
 
-PS: As configurações serãp aplicadas na seguinte ordem:
+*	--system: aplica as configurações para todo repositório de todos os usuários no seu computador. <br>
+	--global: aplica para todo repositório do usuário corrente. <br>
+	--local: aplica para o repositório corrente. <br>
+
+PS: As configurações serão aplicadas na seguinte ordem:
 * Caso tenha local, prevalece local.
 * Caso tenha global, prevalece global.
 * Se não, prevalece a do sistema.
