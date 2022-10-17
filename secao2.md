@@ -1,6 +1,14 @@
 ### Seção 2
 
-#### Primeiro commit
+### Três áreas importantes
+
+* *Área de trabalho*: contém os próprios arquivos fisicos e diretórios que você visualiza e altera.
+* *Staging*: Zona do próximo commit. Tudo que estiver nela será adicionado no commit que for realizado.
+* *Repositório*: Contém os arquivos que o git conhece e todo o histórico de commits do projeto.
+
+**Commits** -> Versões do seu projeto. Você pode retornar para qualquer versão anterior facilmente.
+
+### Primeiro commit
 
 ```
 $ echo "hello world" > hello.txt
@@ -21,7 +29,7 @@ $ git log
 
 ---
 
-#### Git Show
+### Git Show
 
 * Para visualizar as alterações em um determinado commit, pode ser utilizado o comando git show.
 
@@ -32,7 +40,7 @@ $ git show <commit(hash N)...<commit(hash)M> #mostrar alterações de um conjunt
 
 ```
 
-#### Git push
+### Git push
 
 * Empurrando notificações para o servidor remoto
 
@@ -44,7 +52,7 @@ $ git push --set-upstream origin master
 
 ```
 
-#### Git ids
+### Git ids
 
 * Git id é o nome de um objeto git
 * No primeiro commit é gerado uma string de 40 caracteres que é o identificador desse commit.
@@ -59,7 +67,7 @@ $ git log
 $ git hist
 ```
 
-#### Git objects
+### Git objects
 
 * Dentro de um repositório raiz do git podemos ter arquivos e diretórios. Diretórios que geralmente contém outros diretórios.
 * No git o conteúdo dos arquivos são armazenados em objetos chamados **Blobs**.
@@ -99,7 +107,7 @@ $ git commit -m "creating docs"
 
 <img src="/img/tr.png">
 
-#### Clonando um repositório remoto
+### Clonando um repositório remoto
 
 * O git clone vai realizar uma cópia do repositório remoto e configurá-lo automaticamente como uma pasta GIT (internamente ele executa um git init).
 * O git clone também executa um *git fetch*.
@@ -112,7 +120,7 @@ $ git commit -m "creating docs"
 $ git clone <URL do reposiório>
 ```
 
-#### Status dos arquivos
+### Status dos arquivos
 
 * Exibe um relatório mostrando os arquivos que foram alterados ou criados e que ainda não foram comitados.
 
