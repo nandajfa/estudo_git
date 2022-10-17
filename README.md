@@ -17,8 +17,8 @@
 ### Index
 
 - [Seção 1 | Plataformas - Comandos - Configurações iniciais - Alias 💡](https://github.com/nandajfa/estudo_git/blob/main/secao1.md)
-- [Seção 2  📝](#how-to-use)
-- [Seção 3 ⬇️ ](#what-are-the-commit-types)
+- [Seção 2 | Três estados do Git - Push - Git ids - Git objects - Git clone - Status dos arquivos 📝](https://github.com/nandajfa/estudo_git/blob/main/secao2.md)
+- [Seção 3 ⬇️ ](https://github.com/nandajfa/estudo_git/blob/main/secao3.md)
 - [Recommendations ☑️](#recommendations)
 - [Emoji patterns 📍](#emoji-patterns)
 - [References 🔗](#references)
@@ -28,7 +28,7 @@
 
  ### Author
 
-Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
+Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-106651205)
 
 
 <br>[🔝 Back To The Top](#estudos-sobre-git-) <br>
