@@ -14,6 +14,9 @@
 * Tudo fica registrado e você consegue retornar para versões anteriores.
 * Permite que membros de um projeto trabalhem no mesmo documento ao mesmo tempo de forma isolada uns dos outros.
 
+<br>
+ <img  src="/img/ce.png" alt="CVCxDVD">
+
 ### Index
 
 - [Seção 1 | Plataformas - Comandos - Configurações iniciais - Alias 💡](https://github.com/nandajfa/estudo_git/blob/main/secao1.md)
