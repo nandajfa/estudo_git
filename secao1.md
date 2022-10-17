@@ -7,6 +7,8 @@
 * Bitbucket
 * Gitlab
 
+<img src="/img/pl.png"><br>
+
 ### Comandos
 
 * git init (criar repositório local no diretório) Cria a pasta .git(oculta) dentro dela estará o repositório.
