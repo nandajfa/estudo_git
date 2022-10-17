@@ -18,12 +18,14 @@
 
 ### Index
 
-- [Seção 1 | Plataformas - Comandos - Configurações iniciais - Alias 💡](https://github.com/nandajfa/estudo_git/blob/main/secao1.md)
-- [Seção 2 | Três estados do Git - Push - Git ids - Git objects - Git clone - Status dos arquivos 📝](https://github.com/nandajfa/estudo_git/blob/main/secao2.md)
-- [Seção 3 ⬇️ ](https://github.com/nandajfa/estudo_git/blob/main/secao3.md)
-- [Recommendations ☑️](#recommendations)
-- [Emoji patterns 📍](#emoji-patterns)
-- [References 🔗](#references)
+- [Seção 1 | Plataformas - Comandos - Configurações iniciais - Alias ☑️](https://github.com/nandajfa/estudo_git/blob/main/secao1.md)
+- [Seção 2 | Três estados do Git - Push - Git ids - Git objects - Git clone - Status dos arquivos ☑️](https://github.com/nandajfa/estudo_git/blob/main/secao2.md)
+- [Seção 3 | Branches - HEAD - Tags ☑️ ](https://github.com/nandajfa/estudo_git/blob/main/secao3.md)
+- [Seção 4 ☑️](#recommendations)
+- [Seção 5 ☑️](#emoji-patterns)
+- [Seção 6 ☑️](#references)
+- [Seção 7 ☑️](#references)
+- [Seção 8 ☑️](#references)
 - [Author Info  ✒️](#author)
 
 ---
