@@ -94,3 +94,7 @@ $ git add .
 $ git commit -m "creating docs"
 ```
 
+<img src="/img/tree.png">
+
+<img src="/img/tr.png">
+
