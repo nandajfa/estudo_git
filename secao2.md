@@ -25,11 +25,12 @@ $ git log
 
 * Para visualizar as alterações em um determinado commit, pode ser utilizado o comando git show.
 
-´´´
+```
 $ git show
 
-$ git show <commit(hash N)...<commit(hash)M> #mostrar #alterações de um conjunto de commits
-´´´
+$ git show <commit(hash N)...<commit(hash)M> #mostrar alterações de um conjunto de commits
+
+```
 
 #### Git push
 
@@ -50,7 +51,7 @@ $ git push --set-upstream origin master
 * O comando 'git log' mostrará essa string de 40c. Essa string é o nome de um objeto de commit (contido em .git/objects)
 * No 'git hist' aparece os primeiros 7 caracteres.
 
-<img src="/src/sha1.png">
+<img src="/img/sha1.png">
 
 ```
 $ git log
