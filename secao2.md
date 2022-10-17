@@ -131,4 +131,7 @@ $ git status
 ```
 <img src="img/staged.png">
 
-
+```
+$ git commit -m "<mensagem>"
+$ git push
+```
