@@ -38,7 +38,7 @@ $ git show <commit(hash N)...<commit(hash)M> #mostrar alterações de um conjunt
 
 ```
 $ git push
-#msg de erro = Branch master local ainda não possui uma #branch de rastreamento.
+#msg de erro = Branch master local ainda não possui uma branch de rastreamento.
 
 $ git push --set-upstream origin master
 
@@ -98,4 +98,37 @@ $ git commit -m "creating docs"
 <img src="/img/tree.png">
 
 <img src="/img/tr.png">
+
+#### Clonando um repositório remoto
+
+* O git clone vai realizar uma cópia do repositório remoto e configurá-lo automaticamente como uma pasta GIT (internamente ele executa um git init).
+* O git clone também executa um *git fetch*.
+* Sendo assim, já existe uma *branch de rastreamento* master do remote origin que rastreia nossa *branch local master*.
+* Se tiver alguma alteração para empurrar, bastaria um *git push*.
+
+<img src="/img/clone.png">
+
+```
+$ git clone <URL do reposiório>
+```
+
+#### Status dos arquivos
+
+* Exibe um relatório mostrando os arquivos que foram alterados ou criados e que ainda não foram comitados.
+
+```
+$ git status
+```
+<img src="/img/unt.png">
+
+**Status Untracked** -> Esse arquivo ainda não está sob o controle do git.
+
+<img src="/img/status.png">
+
+```
+$ git add .
+$ git status
+```
+<img src="img/staged.png">
+
 
