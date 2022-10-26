@@ -1,4 +1,6 @@
-### Seção 2
+### **Seção 2**
+___
+<br>
 
 ### Três áreas importantes
 

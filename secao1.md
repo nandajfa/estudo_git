@@ -1,5 +1,7 @@
 
-## Seção 1
+## **Seção 1**
+___
+<br>
 
 ### Plataformas de hospedagens mais comuns
 
