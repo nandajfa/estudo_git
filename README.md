@@ -32,7 +32,7 @@
 
  ### Author
 
-Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-106651205)
+Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-programadora/)
 
 
 <br>[🔝 Back To The Top](#estudos-sobre-git-) <br>
